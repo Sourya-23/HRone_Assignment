@@ -2,3 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
+
+# scratch
+race_test.py
