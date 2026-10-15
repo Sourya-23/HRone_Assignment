@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 scratch.py
 race_test.py
+.DS_Store
